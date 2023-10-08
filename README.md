@@ -14,6 +14,7 @@ https://github.com/tsoding/todo.asm/assets/165283/414c2083-a17f-4069-a6fb-2fa4a1
 ## Quick Start
 
 Install [flat assembler](https://flatassembler.net/)
+download [link](https://flatassembler.net/download.php)
 
 ```console
 $ fasm ./todo.asm
